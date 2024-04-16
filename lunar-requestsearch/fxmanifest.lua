@@ -1,8 +1,8 @@
 fx_version "cerulean"
 
-description "Request Search by CFXStore"
-author "CFXStore"
-version "0.0.0"
+description "Request Search by ItsDevLunar"
+author "Lunar Development"
+version "1.0.0"
 repository "https://github.com/Cfx-Store/cfx_requestsearch"
 
 lua54 "yes"
